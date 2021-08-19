@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Krishi Sahyog</title>
+	<link rel="stylesheet" type="text/css" href="style_index.css">
+</head>
+<body>
+	<header>
+		<div class="main">
+			<ul>
+				<li><a href="#"><strong>Home</strong></a></li>
+				<li><a href="aboutus.html"><strong>About Us</strong></a></li>
+				<li><a href="contactform.html"><strong>Contact Us</strong></a></li>
+				<li><a href="feedback.html"><strong>Feedback</strong></a></li>
+			</ul>
+		</div>
+		<div class="title">
+			<h1>Krishi Sahyog</h1>
+		</div>
+		<div class="button">
+			<a href="login.html" class="btn"><strong>Login</strong></a>
+		    <a href="registration.html" class="btn"><strong>Register</strong></a></div>
+	</header>
+</body>
+</html>

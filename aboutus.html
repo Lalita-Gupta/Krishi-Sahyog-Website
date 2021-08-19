@@ -1,0 +1,72 @@
+<link rel="stylesheet" href="style_aboutus.css">
+
+<div class="wrapper">
+    <h1>About Us</h1>
+    <div class="our_team">
+              <div class="team_member">
+           <div class="member_img">
+             <img src="https://st2.depositphotos.com/4294039/8062/v/950/depositphotos_80624340-stock-illustration-illustration-graphic-vector-digital-marketing.jpg" alt="our_team">
+             <div class="social_media">
+               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
+               <div class="twitter item"><i class="fab fa-twitter"></i></div>
+               <div class="instagram item"><i class="fab fa-instagram"></i></div>
+             </div>
+          </div>
+          <h3>GET VALUE OF YOUR PRODUCTS</h3>
+          <span></span>
+          <p>This section help farmers in direct marketing by which ,farmers can get value of their produts directly without any loss issues in step by step process which is normally held at low levels.</p>
+      </div>
+        <div class="team_member">
+          <div class="member_img">
+             <img src="http://unblast.com/wp-content/uploads/2020/09/Contact-Us-Vector-Illustration-1.jpg" alt="our_team">
+            <div class="social_media">
+               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
+               <div class="twitter item"><i class="fab fa-twitter"></i></div>
+               <div class="instagram item"><i class="fab fa-instagram"></i></div>
+             </div>
+          </div>
+          <h3>Connect With Experts</h3>
+          <span></span>
+          <p>Any questions ? Feel free to ask us . Krishi Sahyog provide farmers agricultural experts and advisers to guide the farmers and drive away queries and meet their necessities.</p>
+        </div>
+        <div class="team_member">
+           <div class="member_img">
+             <img src="https://ak.picdn.net/shutterstock/videos/12993563/thumb/9.jpg" alt="our_team">
+             <div class="social_media">
+               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
+               <div class="twitter item"><i class="fab fa-twitter"></i></div>
+               <div class="instagram item"><i class="fab fa-instagram"></i></div>
+             </div>
+          </div>
+          <h3>Online Marketplace</h3>
+          <span></span>
+          <p>Online marketplace provides a wide range of agricultural products and ensures availability of best quality fertilizers ,seeds ,etc.</p>
+      </div>
+        <div class="team_member">
+           <div class="member_img">
+             <img src="https://novkos.ru/wp-content/uploads/2020/04/dobro.jpg" alt="our_team">
+             <div class="social_media">
+               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
+               <div class="twitter item"><i class="fab fa-twitter"></i></div>
+               <div class="instagram item"><i class="fab fa-instagram"></i></div>
+             </div>
+          </div>
+          <h3>Discussion Forum</h3>
+          <span></span>
+          <p>Being a farmer , they have a great deal of knowledge about agriculture . So Krishi Sahyog provides a forum on which a farmer can discuss or ask questions with other farmers.</p>
+      </div>
+        <div class="team_member">
+           <div class="member_img">
+             <img src="https://i.ytimg.com/vi/0T1svV6G_48/maxresdefault.jpg" alt="our_team">
+             <div class="social_media">
+               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
+               <div class="twitter item"><i class="fab fa-twitter"></i></div>
+               <div class="instagram item"><i class="fab fa-instagram"></i></div>
+             </div>
+          </div>
+          <h3>Innovation</h3>
+          <span></span>
+          <p>Krishi Sahyog provides a platform where researcher ,scientist or experts can share their new discoveries , informations , knowledges , research papers , etc. with us.</p>
+      </div>  
+    </div>
+</div>
